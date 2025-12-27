@@ -81,12 +81,7 @@ terraform plan
 
 ## Step 6: Apply Infrastructure
 
-terraform apply
-
-Type:
-
-yes
-
+terraform apply -auto-approve
 ---
 
 ## Step 7: Access the Infrastructure
