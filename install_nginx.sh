@@ -1,0 +1,7 @@
+#!/bin/bash
+apt update -y
+apt upgrade -y
+apt install nginx -y
+systemctl start nginx
+systemctl enable nginx
+echo "<h1>Hello from Terraform EC2 with Nginx</h1>" > /var/www/html/index.html
