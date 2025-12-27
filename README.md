@@ -155,6 +155,3 @@ terraform destroy -auto-approve
 
 ---
 
-## Author
-
-Mohamed Ahmed Mohamed Taha
