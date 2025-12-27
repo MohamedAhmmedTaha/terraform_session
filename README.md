@@ -19,7 +19,7 @@ Make sure you have the following installed on your machine:
 
 ## Step 1: Get AWS Credentials from Sandbox or StartLab
 
-From your AWS Sandbox / StartLab or AWS Console, obtain the following credentials:
+From your AWS Sandbox AWS Details , obtain the following credentials:
 
 * AWS Access Key ID
 * AWS Secret Access Key
